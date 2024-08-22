@@ -30,7 +30,7 @@ How to install ?
 
 On Ubuntu:
 
-1. git clone https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
+1. git clone https://github.com/Handbook2024/Boilevilgix.git
 2. cd EvilGinx2-3.4.1-Modification
 3. unzip latest.zip
 4. cd evilhoster
